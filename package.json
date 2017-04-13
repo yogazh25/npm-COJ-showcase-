@@ -1,0 +1,22 @@
+{
+  "name": "yogazh25",
+  "version": "1.0.0",
+  "description": "my npm showcase for collaborative online judge system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogazh25/npm-COJ-showcase-.git"
+  },
+  "keywords": [
+    "Zyj@921125"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogazh25/npm-COJ-showcase-/issues"
+  },
+  "homepage": "https://github.com/yogazh25/npm-COJ-showcase-#readme"
+}
